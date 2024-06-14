@@ -14,3 +14,7 @@ https://www.radix-ui.com/themes/docs/overview/getting-started
 
 Shadcn<br/>
 https://ui.shadcn.com/
+
+<h2>배포</h2>
+vercel를 사용하여 배포<br/>
+https://yt-music-clone-orpin.vercel.app/
