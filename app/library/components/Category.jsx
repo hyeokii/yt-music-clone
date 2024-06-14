@@ -37,7 +37,7 @@ export default function Category() {
       <div>
         <DropdownMenu>
           <DropdownMenuTrigger asChild>
-            <div className="flex flex-row justify-between w-[162px] h-[42px] items-center p-5 bg-neutral-700 border-neutral-600 rounded-3xl text-[14px] border">
+            <div className="flex flex-row justify-between w-[180px] h-[42px] items-center p-5 bg-neutral-700 border-neutral-600 rounded-3xl text-[14px] border">
               <div>{selectedSort || "정렬 기준"}</div>
               <div>
                 <AiFillCaretDown size={15} />

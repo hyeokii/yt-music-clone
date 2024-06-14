@@ -1,6 +1,6 @@
 import React from "react";
 
-const IconButton = ({ icon, onClickIcon = () => {} }) => {
+const IconButton = ({ icon=<></>, onClickIcon = () => {} }) => {
   return (
     <div
       onClick={onClickIcon}

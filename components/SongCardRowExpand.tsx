@@ -2,9 +2,6 @@
 import { Song } from "@/types";
 import Image from "next/image";
 import React from "react";
-import { FaCircle } from "react-icons/fa";
-import { AiOutlineCaretUp } from "react-icons/ai";
-import { AiOutlineCaretDown } from "react-icons/ai";
 import {
   FiPlayCircle,
   FiThumbsUp,
